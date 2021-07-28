@@ -1,0 +1,22 @@
+{
+  "name": "apple_backend",
+  "version": "1.0.0",
+  "description": "Apple_backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Websoullabs",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "nodemon": "^2.0.12",
+    "react-scripts": "^2.1.8"
+  }
+}
