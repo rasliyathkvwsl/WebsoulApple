@@ -2,7 +2,7 @@ post http://localhost:4000/signup/signup
 Content-Type: application/json
 
 {
-    "fullName" : "Rasliyath",
+    "fullName" : "Misriya",
     "username" : "Rasli",
     "email" : "rasli@mail.com",
     "password" : "rasli123"
